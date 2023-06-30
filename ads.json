@@ -1,1 +1,16 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "cryptosteve",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/cryptosteve/Gluu_Automation",
+        "githubUri": "https://github.com/cryptosteve/Gluu_Automation",
+        "license": "MIT",
+        "lastUpdated": "1688136580787",
+        "tags": [
+            "openid-connect"
+        ]
+    }
+}
